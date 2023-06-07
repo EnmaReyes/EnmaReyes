@@ -86,15 +86,12 @@ que me permitan apoyar y ayudar a futuras emprezas o comunidades en el desarroll
 <a href="https://github.com/carlitosmunkstar" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/carlos-andres-mosquera-barona-6520501b8/" target="_blank">
+<a href="https://www.linkedin.com/in/enmanuel-reyes-61aaa2250/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/profile.php?id=100079560051761" target="_blank">
+<a href="https://www.facebook.com/Enmanuel.33" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/carlosmosquerabarona/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a> 
 </div>  
   
 
